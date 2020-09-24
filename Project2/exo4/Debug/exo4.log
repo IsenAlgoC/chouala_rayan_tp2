@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Choua\source\repos\Project2\exo4\Source.c(9,15): warning C4013: 'time' non défini(e) ; extern retournant int pris par défaut
+C:\Users\Choua\source\repos\Project2\exo4\Source.c(11,9): warning C4101: 'i' : variable locale non référencée
+  exo4.vcxproj -> C:\Users\Choua\source\repos\Project2\Debug\exo4.exe

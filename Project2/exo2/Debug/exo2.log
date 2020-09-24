@@ -1,0 +1,3 @@
+﻿  bagage.c
+C:\Users\Choua\source\repos\Project2\exo2\bagage.c(14,7): warning C4101: 'd' : variable locale non référencée
+  exo2.vcxproj -> C:\Users\Choua\source\repos\Project2\Debug\exo2.exe
